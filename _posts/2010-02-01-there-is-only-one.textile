@@ -4,6 +4,7 @@ title: "There is only one"
 ---
 
 h1. {{ page.title }}
+
 There is only one page so far. And this is it, the first, and most boring, page on this website.
 
 Well the vehicle is up and running. It's rather a nice setup. Home based textfiles etc.
