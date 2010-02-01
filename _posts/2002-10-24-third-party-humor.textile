@@ -1,8 +1,13 @@
 ---
 layout: post
-title: "Third Party Humor"
+title: "Jolly Roger"
 ---
 
 h1. {{ page.title }}
 
-Anyone who watches third parties in U.S. politics will no doubt be amused by the Onion's "portrayal":http://www.theonion.com/onion3839/ask_a_third_party.html of the typical foaming-at-the-mouth minority candidate.
+<html>
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/v/crfrKqFp0Zg"></param>
+  <param name="wmode" value="transparent"></param>
+  <embed src="http://www.youtube.com/v/crfrKqFp0Zg" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed>
+</object>
