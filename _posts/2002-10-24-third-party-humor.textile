@@ -5,9 +5,5 @@ title: "Jolly Roger"
 
 h1. {{ page.title }}
 <html>
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/watch?v=ZD9wXQKKkvo"></param>
-  <param name="wmode" value="transparent"></param>
-  <embed src="http://www.youtube.com/watch?v=ZD9wXQKKkvo" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed>
-</object>
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/ZD9wXQKKkvo&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ZD9wXQKKkvo&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 </html>
