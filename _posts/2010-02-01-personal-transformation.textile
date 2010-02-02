@@ -1,0 +1,12 @@
+---
+layout: post
+title: "intialising the site"
+---
+
+h1. {{ page.title }}
+
+The site is currently being initialised. Alex Payne designed it and I stole it from him. 
+I do intend to change it up, but if he objects he can contact me at http://whspr.me/226 
+(the link will last for 1 year after 2nd feb 2010).
+
+This site is about the documentation of personal transformation, mine as well as others.
