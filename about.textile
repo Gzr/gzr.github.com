@@ -3,7 +3,7 @@ layout: default
 title: "Who?"
 ---
 
-h2. not the greatest about page:
+<h2 id="intro">This page won't tell you about Gzr</h2>
 
 h1. {{ page.title }}
 
