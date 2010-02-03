@@ -1,0 +1,7 @@
+---
+layout: default
+title: "This will be a blank page"
+---
+
+h1. {{ page.title }}
+
