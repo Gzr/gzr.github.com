@@ -4,24 +4,24 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  <title>Alex Payne</title>
- <link href="http://al3x.net/atom.xml" rel="self"/>
- <link href="http://al3x.net/"/>
+ <link href="http://gzr.github.com/atom.xml" rel="self"/>
+ <link href="http://gzr.github.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://al3x.net/</id>
+ <id>http://gzr.github.com/</id>
  <author>
-   <name>Alex Payne</name>
-   <email>al3x@al3x.net</email>
+   <name>gzr</name>
+   <email>n</email>
  </author>
  {% for post in site.posts limit:10 %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://al3x.net{{ post.url }}"/>
+   <link href="http://gzr.github.com{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://al3x.net{{ post.id }}</id>
+   <id>http://gzr.github.com{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
    <author>
-     <name>Alex Payne</name>
-     <uri>http://al3x.net/about.html</uri>
+     <name>Gzr</name>
+     <uri>http://gzr.github.com/about.html</uri>
    </author>
  </entry>
  {% endfor %}
