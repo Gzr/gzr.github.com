@@ -3,5 +3,6 @@ layout: default
 title: "This will be a blank page"
 ---
 
-h1. {{ page.title }}
+<h2 id="intro">This is an added function page, but for now:</h2>
 
+h1. {{ page.title }}
