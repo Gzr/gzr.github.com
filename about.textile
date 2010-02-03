@@ -3,6 +3,8 @@ layout: default
 title: "Who?"
 ---
 
-h2. {{ page.title }}
+h2. not the greatest about page:
+
+h1. {{ page.title }}
 
 Nothing to see. Go look at the archive.
