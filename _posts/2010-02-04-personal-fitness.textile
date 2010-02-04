@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Escape velocity"
+---
+
+h1. {{ page.title }}
+
+I may as well give in to a fitness regime to escape Planet Atrophy. I'm not intending a mission into deep space towards galaxies of the super fit. A stable orbit will suit me fine.
+
+The analogy is carefully thought out. 
+
+_Stage one_: Greatest effort required. The exhorbitant, carefully monitored and controlled force required to break bad habits; experiencing the discomfort of physical activity on an unhealthy physique and overcoming the desire to end the suffering.
+
+_Stage two_: Similar effort required. Older habits are broken, new ones gain traction. However the desire to end the suffering grows. 
+
+_Stage three_: Less effort required. Newer habits gain substance. The physique gains strength and general health increases; benefits are fealt and a positive feedback system initialises.
+
+_Stage four_: Similar effort to previous. The feedback system gains strength. An error at this point would be to settle into the habits too early as the gravity of old habits have not been completely cleared.
+
+_Final stage_: Less effort required. The feedback system has spread its influences and mental associations of physical activity have become positive and self affirming.
+
+THE SETUP IS THAT the longer the mission is delayed, the longer it takes and the more effort required to attain stable orbit. Also, mostly conjecture. Hard evidence to follow (whether it supports or denies the validity of the analogy.) Tonteldoos.
