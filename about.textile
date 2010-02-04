@@ -9,4 +9,4 @@ h1. {{ page.title }}
 
 Me?
 
-You, reader, if your name is Alex Payne, you probably realise this is basically a mirror of your blog, design-wise. I’m tinkering and learning, your site was the starting template, it’ll all likely change pretty soon but if you still object you can contact me "here":http://whspr.me/226.
+You, reader, if your name is Alex Payne, you probably realise this is basically a mirror of your blog, design-wise. I'm tinkering and learning, your site was the starting template, it'll all likely change pretty soon but if you still object you can contact me "here":http://whspr.me/226.
