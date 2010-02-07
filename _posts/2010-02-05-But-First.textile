@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Pictures?"
+title: "But first, pictures?"
 ---
 
 h1. {{ page.title }}
 
 <html>
 
-<img src="pics/Window.gif" />
+<img src="pics/blub.gif" />
 
 </html>
