@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Pictures?"
+---
+
+h1. {{ page.title }}
+
+<html>
+
+<img src="pics/Window.gif" />
+
+</html>
