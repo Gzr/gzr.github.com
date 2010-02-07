@@ -5,7 +5,7 @@
 }
  
 body {
-  background-color: #F3F3F3;
+  background-color: #EDE2BD;
   color: #222;
   font-family: 'helvetica' 'Times New Roman', 'Times', serif;
   line-height: 1.4em;
@@ -13,15 +13,15 @@ body {
 }
  
 a:link {
-  color: #AB6363;
+  color: #OC5DA5;
   text-decoration: none;
 }
 a:visited {
-  color: #C69292;
+  color: #26537C;
   text-decoration: none;
 }
 a:hover {
-  color: #346262;
+  color: #FF9000;
   text-decoration: underline;
 }
  
