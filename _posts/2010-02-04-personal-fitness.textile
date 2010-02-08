@@ -7,7 +7,7 @@ h1. {{ page.title }}
 
 I may as well give in to a fitness regime to escape Planet Atrophy. I'm not intending a mission into deep space towards galaxies of the super fit. A stable orbit will suit me fine.
 
-The analogy is carefully thought out. 
+The Rocket Ship analogy is carefully thought out. 
 
 _Stage one_: Greatest effort required. The exhorbitant, carefully monitored and controlled force required to break bad habits; experiencing the discomfort of physical activity on an unhealthy physique and overcoming the desire to end the suffering.
 

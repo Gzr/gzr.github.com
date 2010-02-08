@@ -1,0 +1,28 @@
+---
+layout: post
+title: "But First..."
+---
+
+h1. {{ page.title }}
+
+as my upcoming fitness program is being equated to a rocket launch:
+
+# *The ship needs to be double checked before launch*
+
+I'm appealing to common sense here: I'd imagine a good place to start is _spinal mobility assymetries_. I'd imagine if these are present (and it's credible to assume a person with bad postural habits of over ten years would have them), then would the exercise that follows be compromised or simply be beneficial to the assymetries? 
+
+I have this from "someone":http://www.endurancerehab.com/about/staff-nate-koch.php who sounds like he knows what he's talking about: 
+
+bq.  Runners with "asymmetrical spinal mobility":http://triathlete-europe.competitor.com/2009/12/03/spinal-mobility-the-missing-link-of-core-training/ often exhibit biomechanical faults, such as a functional leg length discrepancy, that lead to abnormal rear-to-forefoot loading, excessive motion in the lateral or rotation plane, abnormal stride length and an overall decrease in efficiency. These deficits are ticking time bombs waiting to explode when you increase volume or intensity, and can lead to everything from plantar fasciitis and patellar tendinosis to shin splints.
+
+He describes Spinal Mobility as something needs to be addressed seperately, the consequences of not doing this equate to a compromised exercise routine. I'll take it. I must note a caveat: an underlying bias of this analysis is that I want it to be true so I can postpone the actual exercise as long as possible. I can see it being bundled into the upcoming exercise routine for effeciency (and not being part of an extended, easy pre-routine as I'd hoped).
+
+*Chiropractors*
+
+Can aligning the spine by physical manipulation really address connective tissue and muscular assymetries? Possibly, just does not seem logical to me unless yoga is used in conjunction and in a very clever way. There is a chance I've inherited a Chiari Malformation anyway, so that's "chiropractics out":http://jnnp.bmj.com/content/70/6/816.extract for me anyway. Yoga it is.
+
+# *Date and time of start needs to be clear*
+
+This is a necessary measurement to prevent prolonged procrastination. Also it's to get the public aware of what's happening so fear of not iniating the launch and thereby incurring the interrogation of peers prevents said procrastination. Tonteldoos.
+
+
