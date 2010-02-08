@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "But First..."
+title: "But 1st! the ship needs to be double checked for launch..."
 ---
 
-h1. {{ page.title }}
-
-as my upcoming fitness program is being equated to a rocket launch:
-
-# *The ship needs to be double checked before launch*
+h1. {{ page.title }} 
 
 I'm appealing to common sense here: I'd imagine a good place to start is _spinal mobility assymetries_. I'd imagine if these are present (and it's credible to assume a person with bad postural habits of over ten years would have them), then would the exercise that follows be compromised or simply be beneficial to the assymetries? 
 
@@ -20,9 +16,5 @@ He describes Spinal Mobility as something needs to be addressed seperately, the 
 *Chiropractors*
 
 Can aligning the spine by physical manipulation really address connective tissue and muscular assymetries? Possibly, just does not seem logical to me unless yoga is used in conjunction and in a very clever way. There is a chance I've inherited a Chiari Malformation anyway, so that's "chiropractics out":http://jnnp.bmj.com/content/70/6/816.extract for me anyway. Yoga it is.
-
-# *Date and time of start needs to be clear*
-
-This is a necessary measurement to prevent prolonged procrastination. Also it's to get the public aware of what's happening so fear of not iniating the launch and thereby incurring the interrogation of peers prevents said procrastination. Tonteldoos.
 
 
