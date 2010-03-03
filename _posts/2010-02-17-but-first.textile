@@ -5,11 +5,11 @@ title: "Getting the rocket ship ready..."
 
 h1. {{ page.title }} 
 
-Appealing to plain vanilla common sense I'd imagine a good place to start would be _spinal mobility_ and strengthening _core musculature_.
+A good place to start would be _spinal mobility_ and strengthening _core musculature_?
 
-Jumping into high intensity training after ten years of sedentary inactivity doesn't sound like a good idea to me; some basic poses and breathing movements from the yoga, slow deep squats etc., bicycle crunches and pushups seem like a great idea.
+Some basic poses and breathing movements from the yoga, slow deep squats etc., bicycle crunches and pushups.
 
-It's common knowledge and common practice to "warm up", here are the actual physiological benefits and their mechanisms:
+Why warm up?
 
 * The term is literal, muscles warm up by 2 degrees celcius. Cause: exothermic chemical reactions of calory burning (replenishing fuel availability for the muscle cells)
 
@@ -23,4 +23,4 @@ It's common knowledge and common practice to "warm up", here are the actual phys
 
 * Nerve impulses become more efficient for some reason
 
-It seems therefor that if a warmup is done correctly, by the end of it I should feel looser and more energetic. Literally I should _be_ more energetic.
+I should feel looser and more energetic.

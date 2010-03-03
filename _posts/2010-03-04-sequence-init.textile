@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Launch sequence initialised?"
+---
+
+h1. {{ page.title }} 
+
+Well here we go, I guess. Does an astronaut ever feel ill-prepared?
+
+Blast off in 10.. 9..
+
+I'm not sure what the fuel is, what that bit of the analogy points to in reality. _Will_? _Energy_??
+
+Diet. Most likely. I have to fuel the thing with a correct Diet. Ah...
+
+8.. 7..
+
+I did a small amount of research online for the exercises; (finding clean and clear information online is very difficult). I'll do the same for diet. 
+
+6.. 5..
+
+I should announce that there is a launch happening soon, I guess.
+
+
+
