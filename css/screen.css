@@ -31,15 +31,11 @@ a img { border-width: 0; }
 margin: 0 30px;
 width: 270px;
 padding: 14px;
-
-border-top-image: url('pics/top.PNG') 27 round round;
-border-right-image: url('pics/right.PNG') 27 round round;
-border-bottom-image: url('pics/bottom.PNG') 27 round round;
-border-left-image: url('pics/left.PNG') 27 round round;
-border-top-left-image: url('pics/top left.PNG') 27 round round;
-border-top-right-image: url('pics/top right.PNG') 27 round round;
-border-bottom-left-image: url('pics/bottom left.PNG') 27 round round;
-border-bottom-right-image: url('pics/bottom right.PNG') 27 round round;
+-o-border-image: url('/pics/border.PNG') 27 round round;
+-icab-border-image: url('/pics/border.PNG') 27 round round;
+-khtml-border-image: url('/pics/border.PNG') 27 round round;
+-moz-border-image: url('/pics/border.PNG') 27 round round;
+-webkit-border-image: url('/pics/border.PNG') 27 round round;
 }
 
 blockquote {
