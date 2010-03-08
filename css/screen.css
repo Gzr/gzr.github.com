@@ -137,21 +137,19 @@ header, footer, nav, article { display: block; }
   font-size: 22pt;
   margin-bottom: 24pt;
   margin-top: 24pt;
-  text-align: center;
+  margin-left: 24pt;
 }
  
 #subtitle, #title { color: #333; }
  
 #subtitle {
-  width: 500px;
+  margin-left: 24pt;
   font-size: 24pt;
-  text-align: center;
 }
  
 #title {
-  width: 500px;
+  margin-left: 24pt;
   font-size: 32pt;
-  text-align: center;
 }
  
 #wrapper {
