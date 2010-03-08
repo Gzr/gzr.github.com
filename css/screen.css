@@ -144,10 +144,12 @@ header, footer, nav, article { display: block; }
  
 #subtitle {
   font-size: 24pt;
+  text-align: center;
 }
  
 #title {
   font-size: 32pt;
+  text-align: center;
 }
  
 #wrapper {
