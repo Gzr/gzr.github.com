@@ -31,11 +31,11 @@ a img { border-width: 0; }
 margin: 0 30px;
 width: 270px;
 padding: 14px;
--o-border-image: url('/pics/border.PNG') 0 27 0 27 round round;
--icab-border-image: url('/pics/border.PNG') 0 27 0 27 round round;
--khtml-border-image: url('/pics/border.PNG') 0 27 0 27 round round;
--moz-border-image: url('/pics/border.PNG') 0 27 0 27 round round;
--webkit-border-image: url('/pics/border.PNG') 0 27 0 27 round round;
+-o-border-image: url('/pics/border.PNG') 45 57 45 50 round round;
+-icab-border-image: url('/pics/border.PNG') 45 57 45 50 round round;
+-khtml-border-image: url('/pics/border.PNG') 45 57 45 50 round round;
+-moz-border-image: url('/pics/border.PNG') 45 57 45 50 round round;
+-webkit-border-image: url('/pics/border.PNG') 45 57 45 50 round round;
 }
 
 blockquote {
