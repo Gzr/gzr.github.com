@@ -143,13 +143,13 @@ header, footer, nav, article { display: block; }
 #subtitle, #title { color: #333; }
  
 #subtitle {
-  width: 150px;
+  width: 400px;
   font-size: 24pt;
   text-align: center;
 }
  
 #title {
-  width: 150px;
+  width: 400px;
   font-size: 32pt;
   text-align: center;
 }
