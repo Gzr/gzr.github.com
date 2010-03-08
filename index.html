@@ -5,10 +5,12 @@ title: Online Writing
 <h2 id="intro">The five most recent posts.</h2>
 {% for post in site.posts limit:5 %}
   <div class="post">
+  <div id="border-image-1">
   {{ post.content }}
   <p class="signoff">
     &mdash;<a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }}</a>
   </p>
+  </div>
   </div>
 {% endfor %}
  

@@ -27,6 +27,29 @@ a:hover {
  
 a img { border-width: 0; }
  
+#border-image-1 {
+margin: 0 30px;
+width: 270px;
+padding: 14px;
+-o-border-image: url('/wp-content/uploads/2007/09/border.png') 27 round round;
+-icab-border-image: url('/wp-content/uploads/2007/09/border.png') 27 round round;
+-khtml-border-image: url('/wp-content/uploads/2007/09/border.png') 27 round round;
+-moz-border-image: url('/wp-content/uploads/2007/09/border.png') 27 round round;
+-webkit-border-image: url('/wp-content/uploads/2007/09/border.png') 27 round round;
+
+border-top-image: url('/pics/top.png') 27 round round;
+border-right-image: url('/pics/right.png') 27 round round;
+border-bottom-image: url('/pics/bottom.png') 27 round round;
+border-left-image: url('/pics/left.png') 27 round round;
+
+border-top-left-image: url('/pics/top left.png') 27 round round;
+border-top-right-image: url('/pics/top right.png') 27 round round;
+border-bottom-left-image: url('/pics/bottom left.png') 27 round round;
+border-bottom-right-image: url('/pics/bottom right.png') 27 round round;
+
+border: double orange 1em
+}
+
 blockquote {
   border-left: 1px solid #222;
   line-height: 18px;
