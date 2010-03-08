@@ -28,9 +28,7 @@ a:hover {
 a img { border-width: 0; }
  
 #border-image-1 {
-margin: 0 30px;
-width: 270px;
-padding: 14px;
+border-width: 50px 50px 50px 50px;
 -o-border-image: url('/pics/border.PNG') 45 57 45 50 round round;
 -icab-border-image: url('/pics/border.PNG') 45 57 45 50 round round;
 -khtml-border-image: url('/pics/border.PNG') 45 57 45 50 round round;
