@@ -143,15 +143,15 @@ header, footer, nav, article { display: block; }
 #subtitle, #title { color: #333; }
  
 #subtitle {
+  width: 150px;
   font-size: 24pt;
   text-align: center;
-  max-width: 40em;
 }
  
 #title {
+  width: 150px;
   font-size: 32pt;
   text-align: center;
-  max-width: 40em;
 }
  
 #wrapper {
