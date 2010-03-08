@@ -148,7 +148,6 @@ header, footer, nav, article { display: block; }
  
 #title {
   font-size: 32pt;
-  text-align: center;
 }
  
 #wrapper {
