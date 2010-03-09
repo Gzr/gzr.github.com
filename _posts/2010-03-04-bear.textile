@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Bear"
+---
+
+h2. {{ page.title }} 
+
+Last night I dreamed of a bear was in the house. I was outside while a team of very calm and in control taskforce/police/swat men took care of it. During the instant it was shot with a tranq gun, I was the person pulling the trigger, then I was back outside and the bear made its way towards me. It was going to damage me still despite being on its way out of consciousness, so the dream was rearranged to where it had passed out on the other side of the pool where it became a loveable creature again.
+
+The reference was to an episode of "I was bitten" which has survivors of animal maulings recount the event. The one about a bear mauling victim really upset me. The guy had his face bitten off.
+
+Another reference was to an attack of sleep paralysis that occured earlier. After the movie "paranormal activity" I'd been getting easily controlled flashes of irrational fear some nights. I'd since thought an attack of sleep paralysis would be especially frightening. But last night it was proffesionally handled like the bear attack; I knew it was sleep paralysis and sent it off.
+
+
+
+

@@ -3,7 +3,7 @@ layout: post
 title: "Escape velocity"
 ---
 
-h1. {{ page.title }}
+h2. {{ page.title }}
 
 I may as well give in to a fitness regime to escape Planet Atrophy. I'm not intending a mission into deep space towards galaxies of the super fit. A stable orbit will suit me fine.
 

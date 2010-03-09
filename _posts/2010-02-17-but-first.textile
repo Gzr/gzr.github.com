@@ -3,7 +3,7 @@ layout: post
 title: "Getting the rocket ship ready..."
 ---
 
-h1. {{ page.title }} 
+h2. {{ page.title }} 
 
 A good place to start would be _spinal mobility_ and strengthening _core musculature_?
 

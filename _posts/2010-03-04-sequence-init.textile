@@ -3,7 +3,7 @@ layout: post
 title: "Launch sequence initialised?"
 ---
 
-h1. {{ page.title }} 
+h2. {{ page.title }} 
 
 Well here we go, I guess. Does an astronaut ever feel ill-prepared?
 
