@@ -121,6 +121,7 @@ header, footer, nav, article { display: block; }
  
 #footer {
   font-size: 14pt;
+  margin-left: 24pt;
 }
  
 #fusionad {
