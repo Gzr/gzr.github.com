@@ -6,7 +6,6 @@ title: "A cynic fixes his body and outlook"
 <h2 id="intro">Explains what the site is</h2>
 
 <div id="border-image-1">
-h1. {{ page.title }}
 
 h2. The Site Format
 
