@@ -133,13 +133,6 @@ header, footer, nav, article { display: block; }
 }
  
 #intro {
-border-width: 50px 50px 50px 50px;
--o-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
--icab-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
--khtml-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
--moz-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
--webkit-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
-
   color: #666;
   font-size: 22pt;
   margin-bottom: 24pt;
