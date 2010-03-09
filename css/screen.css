@@ -120,7 +120,14 @@ header, footer, nav, article { display: block; }
 }
  
 #footer {
-  font-size: 30px;
+border-width: 50px 50px 50px 50px;
+-o-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
+-icab-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
+-khtml-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
+-moz-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
+-webkit-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
+
+  font-size: 20px;
 }
  
 #fusionad {
