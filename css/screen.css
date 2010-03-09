@@ -137,7 +137,6 @@ header, footer, nav, article { display: block; }
   font-size: 22pt;
   margin-bottom: 24pt;
   margin-top: 24pt;
-  margin-left: 24pt;
 }
  
 #subtitle, #title { color: #333; }
