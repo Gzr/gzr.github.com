@@ -29,11 +29,11 @@ a img { border-width: 0; }
  
 #border-image-1 {
 border-width: 50px 50px 50px 50px;
--o-border-image: url('/pics/border.PNG') 45 57 45 50 round round;
--icab-border-image: url('/pics/border.PNG') 45 57 45 50 round round;
--khtml-border-image: url('/pics/border.PNG') 45 57 45 50 round round;
--moz-border-image: url('/pics/border.PNG') 45 57 45 50 round round;
--webkit-border-image: url('/pics/border.PNG') 45 57 45 50 round round;
+-o-border-image: url('/pics/border.PNG') 45 59 45 52 round round;
+-icab-border-image: url('/pics/border.PNG') 45 59 45 52 round round;
+-khtml-border-image: url('/pics/border.PNG') 45 59 45 52 round round;
+-moz-border-image: url('/pics/border.PNG') 45 59 45 52 round round;
+-webkit-border-image: url('/pics/border.PNG') 45 59 45 52 round round;
 
 }
 
