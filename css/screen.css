@@ -124,13 +124,6 @@ header, footer, nav, article { display: block; }
 }
  
 #fusionad {
-  float: right;
-  margin: 75px 200px 0 10px;
-  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-  font-size: 10pt;
-  text-align: center;
-  width: 150px;
-}
  
 #intro {
   color: #666;
@@ -142,7 +135,8 @@ header, footer, nav, article { display: block; }
 #sidebar {
   position: fixed;
   font-size: 30px;
-  margin: 7px 2px 0 10px;
+  left:4px;
+  top:4px;
 
 }
 
