@@ -133,8 +133,8 @@ header, footer, nav, article { display: block; }
 #sidebar {
   position: fixed;
   font-size: 30px;
-  left:4px;
-  top:4px;
+  left:10%;
+  top:50%;
 }
 
 #subtitle, #title { color: #333; }
