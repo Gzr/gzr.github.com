@@ -117,7 +117,7 @@ header, footer, nav, article { display: block; }
 /* ids */
 
 #border {
-  position: fixed;
+  position:absolute;
   margin-left:0px; 
   padding:0px; 
   width:98%; 
@@ -126,6 +126,7 @@ header, footer, nav, article { display: block; }
   border-width:10px;
   border-color:black;
 }
+
 #cse-search-box {
   margin-top: 10px;
 }
