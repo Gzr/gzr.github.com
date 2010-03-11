@@ -140,8 +140,8 @@ header, footer, nav, article { display: block; }
 }
 
 #sidebar {
-  float: right;
-  margin: 75px 200px 0 10px;
+  float: left;
+  margin: 0px 0px 0 10px;
   font-size: 30px;
   margin-left:0; 
 }
