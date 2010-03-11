@@ -13,7 +13,7 @@
     <title>Gzr &mdash; {{ page.title }}</title>
   </head>
   <body>
-    <header id="footer">
+    <header id="sidebar">
         <a href="/" title="Home"><IMG SRC="/pics/icon-16.png" ALT="Home"></a>
         <a href="/archive.html" title="Archived writing"><IMG SRC="pics/icon-10.png" ALT="Archive"></a>
         <a href="/about.html" title="About the site"><IMG SRC="/pics/help.png" ALT="About"></a>
@@ -21,14 +21,15 @@
     <div id="wrapper">
       {{ content }}
       <footer id="footer">
-          <div>
-            <form action="http://www.google.com/cse" id="cse-search-box">
+        <a href="/" title="Home"><IMG SRC="/pics/icon-16.png" ALT="Home"></a>
+        <a href="/archive.html" title="Archived writing"><IMG SRC="pics/icon-10.png" ALT="Archive"></a>
+        <a href="/about.html" title="About the site"><IMG SRC="/pics/help.png" ALT="About"></a>
+          <form action="http://www.google.com/cse" id="cse-search-box">
             <input type="hidden" name="cx" value="000652178004161548235:gnplrkdmhbu" />
             <input type="hidden" name="ie" value="UTF-8" />
             <input type="text" name="q" size="40" />
             <input type="submit" name="sa" value="Search" />
-          </div>
-        </form>
+          </form>
       </footer>
     </div>
   </body>

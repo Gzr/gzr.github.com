@@ -138,7 +138,14 @@ header, footer, nav, article { display: block; }
   margin-bottom: 24pt;
   margin-top: 24pt;
 }
- 
+
+#sidebar {
+  float: left;
+  font-size: 30px;
+  margin-left:0; 
+  width: 50px;
+}
+
 #subtitle, #title { color: #333; }
  
 #subtitle {
