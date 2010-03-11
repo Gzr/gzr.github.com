@@ -140,7 +140,7 @@ header, footer, nav, article { display: block; }
 }
 
 #sidebar {
-  position: absolute;
+  position: fixed;
   font-size: 30px;
   margin: 7px 2px 0 10px;
 
