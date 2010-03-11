@@ -140,10 +140,10 @@ header, footer, nav, article { display: block; }
 }
 
 #sidebar {
-  float: left;
-  margin: 0px 0px 0 10px;
+  position: absolute;
   font-size: 30px;
-  margin-left:0; 
+  margin-left:5px;
+  margin-top:5px; 
 }
 
 #subtitle, #title { color: #333; }
