@@ -135,9 +135,8 @@ header, footer, nav, article { display: block; }
 #sidebar {
   position: fixed;
   font-size: 30px;
-  left:4px;
-  top:4px;
-
+  margin-left:4px;
+  margin-top:4px;
 }
 
 #subtitle, #title { color: #333; }
