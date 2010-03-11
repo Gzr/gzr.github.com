@@ -5,11 +5,7 @@
 }
  
 body {
-  position: fixed;
   background-color: #edf1f3;
-  border-style:solid;
-  border-width:10px;
-  border-color:black;
   color: #222;
   font-family: 'helvetica' 'Times New Roman', 'Times', serif;
   line-height: 1.4em;
@@ -119,6 +115,14 @@ header, footer, nav, article { display: block; }
 }
  
 /* ids */
+
+#border {
+  margin: 2% 2% 2% 2%;
+  position: fixed;
+  border-style:solid;
+  border-width:10px;
+  border-color:black;
+}
 #cse-search-box {
   margin-top: 10px;
 }
