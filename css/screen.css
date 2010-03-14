@@ -138,7 +138,7 @@ header, footer, nav, article { display: block; }
 #intro {
   color: #666;
   font-size: 22pt;
-  margin-bottom: 24pt;
+  margin-bottom: 4pt;
   margin-top: 24pt;
   margin-left: 28px;
 }
