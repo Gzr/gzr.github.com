@@ -140,7 +140,7 @@ header, footer, nav, article { display: block; }
   font-size: 22pt;
   margin-bottom: 24pt;
   margin-top: 24pt;
-  margin-top: 24px;
+  margin-left: 24px;
 }
 
 #sidebar {
