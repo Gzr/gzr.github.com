@@ -140,7 +140,6 @@ header, footer, nav, article { display: block; }
   font-size: 22pt;
   margin-bottom: 4pt;
   margin-top: 24pt;
-  margin-left: 28px;
 }
 
 #sidebar {
@@ -158,7 +157,6 @@ header, footer, nav, article { display: block; }
 }
  
 #title {
-  margin-left: 24pt;
   font-size: 32pt;
 }
  
