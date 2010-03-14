@@ -136,6 +136,7 @@ header, footer, nav, article { display: block; }
 }
  
 #intro {
+  text:center-align;
   color: #666;
   font-size: 22pt;
   margin-bottom: 24pt;
