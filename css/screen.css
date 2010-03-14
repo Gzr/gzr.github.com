@@ -163,5 +163,5 @@ header, footer, nav, article { display: block; }
 #wrapper {
   max-width: 45em;
   min-width: 30em;
-  width: 75%;
+  width: 62em;
 }
