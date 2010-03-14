@@ -9,7 +9,7 @@ body {
   color: #222;
   font-family: 'helvetica' 'Times New Roman', 'Times', serif;
   line-height: 1.4em;
-  margin: 20px auto 18px 25%;
+  margin: 20px auto 18px 5%;
 }
  
 a:link {
@@ -162,7 +162,7 @@ header, footer, nav, article { display: block; }
 }
  
 #wrapper {
-  max-width: 40em;
+  max-width: 45em;
   min-width: 30em;
   width: 32em;
 }
