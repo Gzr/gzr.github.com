@@ -139,7 +139,7 @@ header, footer, nav, article { display: block; }
   color: #666;
   font-size: 22pt;
   margin-bottom: 14pt;
-  margin-top: 14pt;
+  margin-top: 4pt;
 }
 
 #sidebar {
