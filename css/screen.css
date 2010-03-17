@@ -108,7 +108,7 @@ header, footer, nav, article { display: block; }
   line-height: 26px;
 }
  
-.post .signoff {
+.post signoff {
   font-size: 12pt;
   font-style: italic;
   text-align: right;
