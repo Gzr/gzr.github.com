@@ -99,7 +99,7 @@ header, footer, nav, article { display: block; }
 }
  
 .post {
-  border-bottom: 0px solid #222;
+  border-bottom: 2px solid #222;
   margin-bottom: 20px;
 }
  
@@ -164,10 +164,4 @@ header, footer, nav, article { display: block; }
   max-width: 80%;
   min-width: 30em;
   width: 40%;
-  border-width: 50px 50px 50px 50px;
-  -o-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
-  -icab-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
-  -khtml-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
-  -moz-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
-  -webkit-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
-}
+ }
