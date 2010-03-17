@@ -2,11 +2,14 @@
 layout: default
 title: "about"
 ---
+<div class="post">
 
 Planning on living till I'm 100. 
 
 Currently 29, depressed and unfit. 
 
-Finding no bullshit exercise and health info and putting it here.
+Finding no bullshit exercise and health info and putting it "here":http://gzr.github.com/.
 
 I can be contacted if necessary "here":http://whspr.me/226.
+
+</div>
