@@ -1,16 +1,13 @@
 ---
 layout: default
-title: Getting fit at 30
+title: Goal
 ---
-<h2 id="intro">The five most recent posts.</h2>
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:10000 %}
   <div class="post">
-  <div id="border-image-1">
   {{ post.content }}
   <p class="signoff">
     &mdash;<a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }}</a>
   </p>
-  </div>
   </div>
 {% endfor %}
  
