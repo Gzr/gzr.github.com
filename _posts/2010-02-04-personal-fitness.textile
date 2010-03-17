@@ -1,20 +1,16 @@
 ---
 layout: post
-title: "Blast off"
+title: "Planned Activities/Dietary Changes"
 ---
 
 h1. {{ page.title }}
 
-Planned Physical Activity: 
-
 _Pushups_: Practical, effective
 
-_Bicycle Crunches_:  "Most efficient":http://www.acefitness.org/getfit/abstudy_results.aspx
+_Bicycle Crunches_: "Most efficient":http://www.acefitness.org/getfit/abstudy_results.aspx
 
 _Yoga for shoulders and Spinal mobility_: Personal experimentation with Mind/Body exercise. Breathing.
 
 _Deep Squats_: Practical, effective
-
-Planned Dietary change:
 
 _Quitting coffee_: Personal experiment relating to depression, anxiety and low energy
