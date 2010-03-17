@@ -7,7 +7,7 @@ h1. {{ page.title }}
 
 _Pushups_: Practical, effective
 
-_Bicycle Crunches_: "Most efficient":http://www.acefitness.org/getfit/abstudy_results.aspx
+_Bicycle Crunches_: "Most efficient":http://www.acefitness.org/getfit/studies/bestworstabexercises.pdf
 
 _Yoga for shoulders and Spinal mobility_: Personal experimentation with Mind/Body exercise. Breathing.
 
