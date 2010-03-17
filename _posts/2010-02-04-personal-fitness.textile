@@ -1,22 +1,20 @@
 ---
 layout: post
-title: "Escape velocity"
+title: "Blast off"
 ---
 
-h2. {{ page.title }}
+h1. {{ page.title }}
 
-I may as well give in to a fitness regime to escape Planet Atrophy. I'm not intending a mission into deep space towards galaxies of the super fit. A stable orbit will suit me fine.
+Planned Physical Activity: 
 
-The Rocket Ship analogy is carefully thought out. 
+_Pushups_: Practical, effective
 
-_Stage one_: Greatest effort required. The exhorbitant, carefully monitored and controlled force required to break bad habits; experiencing the discomfort of physical activity on an unhealthy physique and overcoming the desire to end the suffering.
+_Bicycle Crunches_: "Most efficient":http://www.acefitness.org/getfit/abstudy_results.aspx
 
-_Stage two_: Similar effort required. Older habits are broken, new ones gain traction. However the desire to end the suffering grows. 
+_Yoga for shoulders and Spinal mobility_: Personal experimentation with Mind/Body exercise. Breathing.
 
-_Stage three_: Less effort required. Newer habits gain substance. The physique gains strength and general health increases; benefits are fealt and a positive feedback system initialises.
+_Deep Squats_: Practical, effective
 
-_Stage four_: Similar effort to previous. The feedback system gains strength. An error at this point would be to settle into the habits too early as the gravity of old habits have not been completely cleared.
+Planned Dietary change:
 
-_Final stage_: Less effort required. The feedback system has spread its influences and mental associations of physical activity have become positive and self affirming.
-
-THE SETUP IS THAT the longer the mission is delayed, the longer it takes and the more effort required to attain stable orbit. Also, mostly conjecture. Hard evidence to follow (whether it supports or denies the validity of the analogy.) Tonteldoos.
+_Quitting coffee_: Personal experiment relating to depression, anxiety and low energy

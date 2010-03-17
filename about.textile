@@ -1,19 +1,12 @@
 ---
 layout: default
-title: "A cynic fixes his body and outlook"
+title: "about"
 ---
 
-<h2 id="intro">Explains what the site is</h2>
+Planning on living till I'm 100. 
 
-<div id="border-image-1">
+Currently 29, depressed and unfit. 
 
-h2. The Site Format
+Finding no bullshit exercise and health info and putting it here.
 
-This site is about a person of 29 using an internet blog format to organise his thinking as he attempts to become fit and healthy. He tries to find clean and clear information about exercise and health on the internet, attempts to condense and present here as simply as possible.
-
-h2. The Author
-
-The author is of the type who needs to know exactly *how* something is doing what it claims to do, *why* it's doing it, and *if* it is actually doing anything at all. 
-
-He can be contacted if necessary "here":http://whspr.me/226.
-</div>
+I can be contacted if necessary "here":http://whspr.me/226.
