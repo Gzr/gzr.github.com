@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prep work"
+title: "Prep Work"
 ---
 
 h1. {{ page.title }}
