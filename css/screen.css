@@ -61,6 +61,7 @@ h1 {
   font-size: 30px;
   line-height: 36px;
   margin-bottom: 18px;
+  margin-left: 4px;
 }
  
 h2 {
@@ -101,6 +102,7 @@ header, footer, nav, article { display: block; }
 .post {
   border-bottom: 0px solid #222;
   margin-bottom: 20px;
+  margin-left: 2em;
 }
  
 .post p {
@@ -161,7 +163,6 @@ header, footer, nav, article { display: block; }
 }
  
 #wrapper {
-  margin-left: 2em;
   max-width: 80%;
   min-width: 30em;
   width: 40%;
