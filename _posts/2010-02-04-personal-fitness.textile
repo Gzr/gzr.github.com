@@ -5,7 +5,7 @@ title: "Prep Work"
 
 h1. {{ page.title }}
 
-The baby steps for the next few months, almost hidden from consciousness:
+The baby steps for the next few months. Almost hidden from consciousness.
 
 Pushups: _practical, x pushups every other day_
 
