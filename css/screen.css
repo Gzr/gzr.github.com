@@ -163,9 +163,9 @@ header, footer, nav, article { display: block; }
 }
  
 #wrapper {
-  max-width: 80%;
+  max-width: 40%;
   min-width: 30em;
-  width: 45%;
+  width: 40%;
   border-width: 50px 50px 50px 50px;
   -o-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
   -icab-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
