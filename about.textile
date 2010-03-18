@@ -4,11 +4,9 @@ title: "about"
 ---
 <div class="post">
 
-Planning on living till I'm 100. 
+This site is a chronicle of the steps taken to become as functional a human being as possible, given the initial limiting factors of a lack of motivation, physically unfit body and depressed mental state.
 
-Currently 29, depressed and unfit. 
-
-Finding no bullshit exercise and health info and putting it "here":http://gzr.github.com/.
+The ongoing activities, discovered information and results will go "here":http://gzr.github.com/
 
 I can be contacted if necessary "here":http://whspr.me/226.
 
