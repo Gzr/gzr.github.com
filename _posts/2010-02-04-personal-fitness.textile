@@ -28,6 +28,6 @@ CHANGES UNRELATED TO EXERCISE
 
 Eliminating caffeine as a possible cause of anxiety. 
 
-Sinus rinse: _Intranasal saline solution_
+*Sinus rinse*: _Intranasal saline solution_
 
 Attempt to cure sinus/eye/ear problems and to regain some sense of smell.
