@@ -163,6 +163,8 @@ header, footer, nav, article { display: block; }
 }
  
 #wrapper {
+  min-width: 38%;
+  max-width: 38%;
   width: 38%;
   border-width: 50px 50px 50px 50px;
   -o-border-image: url('/pics/border.PNG') 45 63 45 56 round round;
