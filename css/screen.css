@@ -102,7 +102,7 @@ header, footer, nav, article { display: block; }
 .post {
   border-bottom: 0px solid #222;
   margin-bottom: 20px;
-  margin-left: 2em;
+  margin-left: 1em;
 }
  
 .post p {
