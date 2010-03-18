@@ -8,24 +8,19 @@ h1. {{ page.title }}
 The baby steps for the next few months. Almost hidden from consciousness.
 
 *Pushups*: _practical, x pushups every other day_
-
 x = my max limit (keeping correct form) - 2
 + break + x - 4
 + break + x - 6
 + break + x - 8
 
 *Bicycle Crunches*: _"most efficient":http://www.acefitness.org/getfit/studies/bestworstabexercises.pdf_
-
 Continued a while after a burning sensation is felt. Loose experiment to contrast with the formulaic approach of the pushup schedule.
 
 *Assorted Yoga*: _for spinal mobility and general symmetry._ 
-
 Personal experimentation with Mind/Body exercise and breathing synchronisation. Of the light variety targeting areas of concern: upper middle back and spine in general, hips+butt, shoulders, neck.
 
 *Quitting coffee*: _Personal experiment relating to depression, anxiety and energy levels_
-
 Eliminating caffeine as a possible cause of anxiety. 
 
 *Sinus rinse*: _Intranasal saline solution_
-
 Attempt to cure sinus/eye/ear problems and to regain some sense of smell.
