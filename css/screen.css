@@ -161,6 +161,7 @@ header, footer, nav, article { display: block; }
 }
  
 #wrapper {
+  margin-left: 2em;
   max-width: 80%;
   min-width: 30em;
   width: 40%;
