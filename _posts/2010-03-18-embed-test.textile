@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Embed Test"
+---
+
+h1. {{ page.title }}
+
+<script src="http://embedit.in/thumb.zRFFwwWGtw.js"></script>
