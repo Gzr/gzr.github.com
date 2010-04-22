@@ -1,18 +1,16 @@
 ---
 layout: post
-title: "Deliverance"
+title: "Deliverance - Hexagram 40"
 ---
 
 h1. {{ page.title }}
 
-*Hexagram 40*
-
-_9 in the 4th_
+*9 in the 4th*
 
 In times of standstill it will happen that inferior people attach themselves to a superior man, and through force of daily habit they may grow very close to him and become indispensable, just as the big toe is indispensable to the foot because it makes walking easier. but when the time of deliverance draws near, with its call to deeds, a man must free himself from such chance acquaintances with whom he has no inner connection. For otherwise the friends who share his views, on whom he could really rely and together with whom he could accomplish something, mistrust him and stay away.
 
-_6 at the top_
+*6 at the top*
 
 The hawk on a high wall is the symbol of a powerful inferior in a high position who is hindering the deliverance. He withstands the force of inner influences, because he is hardened in his wickedness. he must be forcibly removed, and this requires appropriate means. Confucius says about this line:
 
-The hawk is the object of the hunt; bow and arrow are the tools and means. The marskman is man (who must make proper use of the means to his end). The superior man contains the means in his own person. he bides his time and then acts. Why then should note everything go well? He acts and is free. Therefore all he has to do is to go forth, and he takes his quarry. This is how a man fares who acts after he has made ready the means.
+The hawk is the object of the hunt; bow and arrow are the tools and means. The marskman is man (who must make proper use of the means to his end). The superior man contains the means in his own person. he bides his time and then acts. Why then should not everything go well? He acts and is free. Therefore all he has to do is to go forth, and he takes his quarry. This is how a man fares who acts after he has made ready the means.
