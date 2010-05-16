@@ -7,6 +7,6 @@ h1. {{ page.title }}
 
 When a rocket launches it needs masses of fuel. Thereafter less and less as it escapes gravity. Despite this, the diminishing output retains equal importance; If the last speck of fuel is discarded, instead of stable orbit the craft could slowly drift down into a hell of increasing gravity, and pointing in the wrong direction too.
 
-*-Hexagram 64 [I CHING]*
+_Hexagram 64 [I CHING]_
 
-Now it is the time of struggle. The transition must be completed. We must make ourselves strong in resolution; this brings good fortune. *All misgivings that might arise in such grave times of struggle must be silenced.* It is a question of a fierce battle to break and to discipline the Devil"s Country, the forces of decadence. But the struggle also has its reward. Now is the time to lay the foundations of power and mastery for the future.
+Now it is the time of struggle. The transition must be completed. We must make ourselves strong in resolution; this brings good fortune. _All misgivings that might arise in such grave times of struggle must be silenced._ It is a question of a fierce battle to break and to discipline the Devil"s Country, the forces of decadence. But the struggle also has its reward. Now is the time to lay the foundations of power and mastery for the future.
