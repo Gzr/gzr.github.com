@@ -1,0 +1,12 @@
+---
+layout: post
+title: "So Far"
+---
+
+h1. {{ page.title }}
+
+Mormon Norma Lorman
+
+_Perceptionism_
+
+A discredited profession
