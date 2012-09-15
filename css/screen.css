@@ -112,7 +112,7 @@ header, footer, nav, article { display: block; }
  
 .post .signoff {
   font-size: 12pt;
-  font-style: italic;
+  /*font-style: italic;*/
   text-align: right;
 }
  
