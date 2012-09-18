@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "So Far"
+title: "Duration"
 ---
 
 h1. {{ page.title }}
 
-Mormon Norma Lorman
+Drink water. Sleep. Lather, rinse, repeat.
 
-_Perceptionism_
+_Six at the top_
 
-A discredited profession
+Restlessness as an enduring condition brings misfortune.
+
+There are people who live in a state of perpetual hurry without every attaining inner composure. Restlessness not only prevents all thoroughness but actually becomes a danger if it is dominant in place of authority.
