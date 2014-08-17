@@ -5,7 +5,7 @@ title: “The narratives objective”
 
 h1. {{ page.title }}
 
-A good narrative encompasses and unifies as many elements as possible. The narrative engine of a life helps it win by supplying a feeling of understanding which in turn allows for greater availability of restful and positive states. The resulting confidence expressed through body language. 
+A good narrative encompasses and unifies as many elements as possible. The narrative engine of a life helps it win by supplying a feeling of understanding which in turn allows for greater availability of restful and positive states. The resulting confidence expressed, then, through body language and so on 
 
 The only truth the narrative engine cares for is that we must survive.
 
