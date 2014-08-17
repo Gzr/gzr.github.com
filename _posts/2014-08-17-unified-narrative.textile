@@ -1,0 +1,16 @@
+---
+layout: post
+title: “The narratives objective”
+---
+
+h1. {{ page.title }}
+
+A good narrative encompasses and unifies as many elements as possible. The narrative engine of a life helps it win by supplying a feeling of understanding which in turn allows for greater availability of restful and positive states. The resulting confidence expressed through body language. 
+
+The only truth the narrative engine cares for is that we must survive.
+
+_persistance_
+
+You could say that the word “persisting” in ‘persisting restlessness’ is a verb and that restlessness is the thing being persisted in; because there are things to be done about restlessness. But it does have the feel of a caged in trap, or less dramatically, the asymmetrical in-out systems of the type used in pens - click in at the top, out at the side.
+
+ 
